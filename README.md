@@ -1,4 +1,4 @@
-# Predicting Residential Property Sale Prices in Washington, D.C.
+# Predicting Residential Property Sale Prices
 
 ## Overview
 
