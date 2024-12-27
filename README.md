@@ -16,6 +16,4 @@ This is the [Python script](https://github.com/AlexZak135/DC-Residential-Propert
 
 ## Outputs
 
-Below, Table 1 presents the performance and error metrics of all the models when tested on Washington, D.C. residential property sales from July 11, 2023, to September 24, 2024. The models in Table 1 are arranged in ascending order based on their given complexity.
-
-<img width="1287" alt="Output-1" src="https://github.com/user-attachments/assets/28a99ecb-7d4a-474a-bd4c-d4ae14f075c6" />
+These [outputs](https://github.com/AlexZak135/DC-Residential-Properties/tree/main/Outputs) represent the main findings and results from the exploratory data analysis and the machine learning models.
