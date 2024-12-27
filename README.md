@@ -18,4 +18,4 @@ This is the [Python script](https://github.com/AlexZak135/DC-Residential-Propert
 
 Below, Table 1 presents the performance metrics of all the models when tested on Washington, D.C. residential property sales from July 11, 2023, to September 24, 2024. 
 
-<img width="1382" alt="Output-1" src="https://github.com/user-attachments/assets/a3d9ad90-a27c-4343-a131-b2e8ec836606" />
+<img width="1287" alt="Output-1" src="https://github.com/user-attachments/assets/28a99ecb-7d4a-474a-bd4c-d4ae14f075c6" />
