@@ -10,12 +10,9 @@ This research utilized data from the CAMA database, as well as property zoning d
 
 After data preprocessing and exploratory data analysis, six supervised machine learning models were trained and tested, with three of these models using tree-based ensemble algorithms. All the models were trained on the initial 80% of the data and tested on the remaining 20%. Among the six models, the one using the CatBoost algorithm demonstrated the best performance based on the evaluated metrics, with XGBoost closely trailing. The machine learning models could be assessed by the Washington, D.C. government to determine if they have greater explanatory power and precision than current methods for predicting appraisal prices of residential properties, from which property taxes are derived. 
 
+Below, Table 1 presents the performance metrics of all the models when tested on Washington, D.C. residential property sales from July 11, 2023, to September 24, 2024. 
+<img width="1256" alt="Output-1" src="https://github.com/user-attachments/assets/35797572-c225-46df-a9da-bc47058c2803" />
+
 ## Files
 
 This is the [Python script](https://github.com/AlexZak135/DC-Residential-Properties/blob/main/Code/DC-Residential-Properties-Code.py) containing the code used for this analysis, and these are the [datasets](https://github.com/AlexZak135/DC-Residential-Properties/tree/main/Data) used in the Python script.
-
-## Outputs
-
-Below, Table 1 presents the performance metrics of all the models when tested on Washington, D.C. residential property sales from July 11, 2023, to September 24, 2024. 
-
-![Output-1](https://github.com/user-attachments/assets/a7a7de7d-ec06-42c1-ba4d-981d12f03b85)
