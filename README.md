@@ -10,7 +10,7 @@ This research utilized data from the CAMA database and property zoning records m
 
 ## Files
 
-These are the [scripts](https://github.com/AlexZak135/DC-Residential-Properties/tree/main/Code) containing the code used for this analysis, and these are the [datasets](https://github.com/AlexZak135/DC-Residential-Properties/tree/main/Data) used in the scripts. 
+These are the [Python and R scripts](https://github.com/AlexZak135/DC-Residential-Properties/tree/main/Code) containing the code used for this analysis, and these are the [datasets](https://github.com/AlexZak135/DC-Residential-Properties/tree/main/Data) used in the scripts. 
 
 ## Outputs
 
