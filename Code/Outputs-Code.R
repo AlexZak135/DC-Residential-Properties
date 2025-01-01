@@ -20,7 +20,8 @@ library(scales)
 # Part 2: Data Preprocessing
 
 # Load the data from the CSV file 
-appraisals <- read_csv("Outputs-Data.csv")
+appraisals <- read_csv("Outputs-Data.csv") |>
+  as_tibble()
 
 # Select columns and reshape the data into a longer format
 dens_inputs <- appraisals |> 
